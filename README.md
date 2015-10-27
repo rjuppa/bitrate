@@ -1,5 +1,6 @@
 ## bitrate
 *Get price of 1BTC in CLI*
+
 *Using command line application with [Click](https://github.com/mitsuhiko/click)*
 
 ##### Install
