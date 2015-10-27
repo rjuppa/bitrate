@@ -1,8 +1,8 @@
-# bitrate
-## Get price of 1BTC
+## bitrate
+*Get price of 1BTC*
 
-*Install
-*=======
+### Install
+#### =======
 ```
 $ git clone git@github.com:rjuppa/bitrate.git
 $ cd bitrate
